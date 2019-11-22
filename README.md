@@ -1,12 +1,12 @@
-## GroupDocs.editor Cloud SDK for .NET Examples
-This repository contains [Examples](Examples) projects for [GroupDocs.editor Cloud SDK for .NET](https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-dotnet) to help you learn and write your own applications.
+## GroupDocs.Editor Cloud SDK for .NET Examples
+This repository contains [Examples](Examples) projects for [GroupDocs.Editor Cloud SDK for .NET](https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-dotnet) to help you learn and write your own applications.
 
 
-[GroupDocs.editor Cloud SDK for .NET](https://products.groupdocs.cloud/editor/net) allows you to edit most popular document formats using 3rd party front-end WYSIWYG editors without any additional applications. No Open Office or MS Office is required to edit a word or spreadsheet document. Edit DOCX/DOC, PPTX/PPT, XLSX/XLS, ODT, ODS, ODP, TSV/DSV, TXT and many other document formats.
-[GroupDocs.editor Cloud API](https://products.groupdocs.cloud/editor). GroupDocs.editor Cloud SDK for .NET has been developed to help you integrate all these features in your .NET application without any hassle.
+[GroupDocs.Editor Cloud SDK for .NET](https://products.groupdocs.cloud/editor/net) allows you to edit most popular document formats using 3rd party front-end WYSIWYG editors without any additional applications. No Open Office or MS Office is required to edit a word or spreadsheet document. Edit DOCX/DOC, PPTX/PPT, XLSX/XLS, ODT, ODS, ODP, TSV/DSV, TXT and many other document formats.
+[GroupDocs.Editor Cloud API](https://products.groupdocs.cloud/editor). GroupDocs.Editor Cloud SDK for .NET has been developed to help you integrate all these features in your .NET application without any hassle.
 
 <p align="center">
-  <a title="Download complete GroupDocs.editor Cloud SDK .NET Example source code" href="https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-dotnet-samples/archive/master.zip">
+  <a title="Download complete GroupDocs.Editor Cloud SDK .NET Example source code" href="https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-dotnet-samples/archive/master.zip">
 	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
   </a>
 </p>
@@ -15,7 +15,7 @@ This repository contains [Examples](Examples) projects for [GroupDocs.editor Clo
 
 + Visual Studio 2017 or Higher.
 
-+ GroupDocs.editor Cloud SDK for .NET.
++ GroupDocs.Editor Cloud SDK for .NET.
 
 + Get your AppSID and AppKey at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
 
@@ -32,7 +32,7 @@ In other case, it is possible that Visual Studio is unable to automatically add 
 For more details, visit  [Getting Started](https://docs.groupdocs.cloud/display/editorcloud/Getting+Started).
 
 ## Licensing
-All GroupDocs.editor Cloud SDKs are licensed under [MIT License](LICENSE).
+All GroupDocs.Editor Cloud SDKs are licensed under [MIT License](LICENSE).
 
 ## Resources
 + [**Website**](https://www.groupdocs.cloud)
