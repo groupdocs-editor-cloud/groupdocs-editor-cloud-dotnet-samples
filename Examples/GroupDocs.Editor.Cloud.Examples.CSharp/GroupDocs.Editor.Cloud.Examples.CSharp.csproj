@@ -56,7 +56,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="GroupDocs.Editor.Cloud.Sdk, Version=19.11.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\GroupDocs.Editor-Cloud.19.11.0-alpha-20191119015203\lib\net20\GroupDocs.Editor.Cloud.Sdk.dll</HintPath>
+      <HintPath>..\packages\GroupDocs.Editor-Cloud.19.11.0\lib\net20\GroupDocs.Editor.Cloud.Sdk.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
