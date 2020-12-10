@@ -14,24 +14,21 @@ This repository contains [Examples](Examples) projects for [GroupDocs.Editor Clo
 ## Prerequisites
 
 + Visual Studio 2017 or Higher.
-
 + GroupDocs.Editor Cloud SDK for .NET.
-
-+ Get your AppSID and AppKey at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
++ Get your ClientId and ClientSecret at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
 
 ## How to Run the Examples?
 
 The package contains C# examples. Follow the given steps to proceed with project build:
 
-* Extract the downloaded project and open the solution file in Visual Studio
-* Right click on solution and press "Enable NuGet package Restore"
-* Build the project.
-
-In other case, it is possible that Visual Studio is unable to automatically add APIs references due to Visual Studio version differences. In this case, please add references of missing APIs manually.
++ Extract the downloaded project and open the solution file in Visual Studio
++ Right click on solution and press "Enable NuGet package Restore"
++ Edit RunExamples.cs and put ClientId and ClientSecret, obtained from https://dashboard.groupdocs.cloud there
++ Build and Run
 
 For more details, visit  [Getting Started](https://docs.groupdocs.cloud/editor/getting-started/).
 
 ## Licensing
-All GroupDocs.Editor Cloud SDKs are licensed under [MIT License](LICENSE).
+All GroupDocs.Conversion Cloud SDKs are licensed under [MIT License](LICENSE).
 
 [Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/editor/net) | [Docs](https://docs.groupdocs.cloud/editor/) | [Demos](https://products.groupdocs.app/editor/family) | [API Reference](https://apireference.groupdocs.cloud/editor/) | [Source Code](https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-dotnet) | [Blog](https://blog.groupdocs.cloud/category/editor/) | [Free Support](https://forum.groupdocs.cloud/c/editor) | [Free Trial](https://purchase.groupdocs.cloud/trial)
