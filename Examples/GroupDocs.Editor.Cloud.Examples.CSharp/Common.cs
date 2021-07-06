@@ -25,7 +25,7 @@ namespace GroupDocs.Editor.Cloud.Examples.CSharp
 			var folderApi = new FolderApi(configuration);
 			var fileApi = new FileApi(configuration);
 
-			var path = "..\\..\\..\\Resources";
+			var path = "..\\..\\..\\..\\Resources";
 
 			Console.WriteLine("File Upload Processing...");
 
